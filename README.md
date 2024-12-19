@@ -1,6 +1,6 @@
 # **Veri Analizi ve Manipülasyonu Projesi**
 
-Bu proje, **veri temizleme, manipülasyon ve analiz becerilerini geliştirmek** amacıyla yapılmıştır. Çeşitli zorluk seviyelerinde verilen alt görevler başarıyla tamamlanmış ve görselleştirme destekli bir rapor hazırlanmıştır. Proje kapsamında **satış** ve **müşteri verileri** analiz edilmiş ve ödeve uygun olarak farklı görevler yerine getirilmiştir.
+Bu proje, **veri temizleme, manipülasyon ve analiz becerilerini geliştirmek** amacıyla yapılmıştır. Satış verilerinin analiz ve manipülasyonu gerçekleştirilmiştir. Veri setindeki ürün, müşteri ve satış bilgileri detaylı bir şekilde incelenerek, eksik değerlerin temizlenmesi, kategorik değişkenlerin kodlanması ve zaman serisi analizleri gibi veri ön işleme adımları uygulanmıştır. Haftalık ve aylık toplam satış trendleri analiz edilerek, dönemsel değişimler görselleştirilmiş ve hangi ürünlerin hangi zaman aralıklarında daha fazla tercih edildiği ortaya konmuştur. Müşteri segmentasyonu için ilgili veriler gruplandırılmış, en yüksek harcama yapan müşteri segmentleri belirlenmiş ve bu segmentlere yönelik öneriler sunulmuştur. Ayrıca, her ürün için satış artış ve azalış oranları hesaplanmış, sonuçlar görsellerle desteklenmiştir. Bu analizler, iş stratejilerinin geliştirilmesi ve karar alma süreçlerini optimize etmek için somut veriler sunmuştur.
 
 ---
 
